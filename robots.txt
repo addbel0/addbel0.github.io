@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://addbel0.github.io/sitemap.xml
+Sitemap: https://addbel0.github.io/blog//sitemap.xml
