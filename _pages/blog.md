@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /writeup/
+title: writeup
 nav: true
 nav_order: 1
 pagination:
