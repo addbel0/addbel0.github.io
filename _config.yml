@@ -632,17 +632,17 @@ third_party_libraries:
 
 jekyll_get_json:
   - data: resume
-    json: assets/json/resume.json # it can also be an url
+    json: # assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
-  - work
-  - education
-  - certificates
-  - skills
-  - languages
-  - interests
- # - publications
- # - projects
- # - volunteer
- # - awards
+#  - basics
+#  - work
+#  - education
+#  - certificates
+#  - skills
+#  - languages
+#  - interests
+# - publications
+# - projects
+# - volunteer
+# - awards
 #  - references
