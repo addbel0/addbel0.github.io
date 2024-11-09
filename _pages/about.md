@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My personal site that occasionally post about my bug bounty writeups, ctf writeups or even cybersecurity related post
+My personal site that occasionally post about my bug bounty writeups, ctf writeups or cybersecurity related post
